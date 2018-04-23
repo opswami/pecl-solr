@@ -1,0 +1,15 @@
+{
+    "name": "pecl-solr/pecl-solr",
+    "description": "A copy of pecl-solr project(2.4.0), Solr PHP client.",
+    "authors": [
+        {
+            "name": "Om Prakash Swami",
+            "email": "opswami1989@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "SolrClient\\": "Src/"
+        }
+    }
+}
