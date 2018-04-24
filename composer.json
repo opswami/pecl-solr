@@ -8,8 +8,7 @@
         }
     ],
     "autoload": {
-        "psr-0": {
-            "SolrClient\\": "Src/"
-        }
+        "classmap": ["docs/documentation.php"],
+        "files": ["docs/documentation.php"]
     }
 }
